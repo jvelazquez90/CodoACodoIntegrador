@@ -2,8 +2,18 @@
     background-color: #353A40;
 }
 
-.comprar-ticket {
+.comprar-ticket-navbar {
     color: #2AA144;
+}
+
+.boton-quiero-ser-orador {
+    border-color: #353A40;
+    background-color: transparent;
+}
+
+.boton-comprar-tickets {
+    background-color: #2AA144;
+    border: none;
 }
 
 .boton-enviar {
