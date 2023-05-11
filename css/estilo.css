@@ -20,3 +20,19 @@
     background-color: #96C93E;
     border: none;
 }
+
+.opacar {
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+.menu-ul {
+    float: right;
+}
+
+.texto-carousel {
+    text-align: right;
+}
+
+footer {
+    background-image: linear-gradient(to right, #1C3846, #1D5271);
+}
